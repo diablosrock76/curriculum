@@ -1,0 +1,8 @@
+1. PostgreSQL・Oracle SQL
+リレーショナルデータベース（RDB）の作成や操作、管理ができるオープンソースのデータベース管理システム（DBMS）の一つ。MySQLと人気を二分するオープンソースRDBMSで、Linuxなど主要なUNIX系OSとWindowsに対応し、機能の豊富さや拡張性の高さに定評がある。
+
+2. TortoiseGit・TortoiseSVN
+TortoiseGitは分散型バージョン管理システムである Git のクライアントで、TortoiseSVNをもとに、 Microsoft Windows シェル拡張 として実装されている。GNU General Public Licenseのもとに配布されているフリーソフトウェア である。
+
+3. 外部設計・内部設計
+ソフトウェアや情報システムの開発工程の一つで、外部から見たシステムの仕様を定義する工程。方法論の違いにより、この工程のことを「基本設計」あるいは「概要設計」などと呼んだり、これらの一部に含める場合もある。
