@@ -1,10 +1,11 @@
 <?php
-define("GOAL", 39);
+define("GOAL", 40);
 $total = 0;
-while($total < 39) {
+while($total < 40) {
     $n = rand(1, 6);
     $total += $n;
-    echo "{$total}回目={$n}<br />";
+    $i ++ ;
+    echo "{$i}回目={$n}<br />";
     if ($total >= GOAL) {
         echo "合計{$total}回でゴールしました。<br />";
         break;
@@ -25,3 +26,4 @@ if (6 <= $time && $time <= 10 ){
     echo "今{$time}時台です。こんばんは。";
 }
 ?>
+
