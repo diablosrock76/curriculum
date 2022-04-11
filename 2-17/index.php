@@ -1,7 +1,7 @@
 <?php
-define("GOAL", 40);
+define("GOAL", 39);
 $total = 0;
-while($total < 40) {
+while($total < 39) {
     $n = rand(1, 6);
     $total += $n;
     echo "{$total}回目={$n}<br />";
