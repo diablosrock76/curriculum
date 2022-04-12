@@ -1,16 +1,12 @@
 <?php
-define("GOAL", 40);
 $total = 0;
+$i = 0;
 while($total < 40) {
     $n = rand(1, 6);
     $total += $n;
     $i ++ ;
-    echo "{$i}回目={$n}<br />";
-    if ($total >= GOAL) {
-        echo "合計{$total}回でゴールしました。<br />";
-        break;
-    }
-}
+    echo "{$i}回目={$n}<br />";  
+}echo "合計{$total}回でゴールしました。<br />";
 ?>
 <br>
 <?php
