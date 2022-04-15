@@ -9,7 +9,7 @@
 </head>
 <body>
   <h1>2章チェックテスト</h1>
-  <form action="question.php" method="post">
+  <form method="post" action="question.php" >
     <input type="text" name="my_name" placeholder="名前を入力してください"/>
     <input type="submit"  value="テスト開始" />
   </form>
